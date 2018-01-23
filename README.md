@@ -1,9 +1,9 @@
 # gitlab
-##Team
+## Team
 * Ziggy
 * Alex
 * Bob
 * Madison
 * Yanni
-##Clients
+## Clients
 * Mei
